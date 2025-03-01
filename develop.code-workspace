@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Repository",
+      "path": "."
+    },
+    {
+      "name": "Frontend",
+      "path": "./src"
+    },
+    {
+      "name": "Backend",
+      "path": "./src-tauri"
+    }
+  ]
+}
